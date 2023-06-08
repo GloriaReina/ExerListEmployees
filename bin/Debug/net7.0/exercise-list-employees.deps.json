@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "exercise-list-employees/1.0.0": {
+        "runtime": {
+          "exercise-list-employees.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercise-list-employees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

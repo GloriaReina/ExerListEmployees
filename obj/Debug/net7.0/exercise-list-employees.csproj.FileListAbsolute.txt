@@ -1,0 +1,15 @@
+C:\Users\user\workspace\Backend\exercise-list-employees\obj\Debug\net7.0\exercise-list-employees.csproj.AssemblyReference.cache
+C:\Users\user\workspace\Backend\exercise-list-employees\obj\Debug\net7.0\exercise-list-employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\workspace\Backend\exercise-list-employees\obj\Debug\net7.0\exercise-list-employees.AssemblyInfoInputs.cache
+C:\Users\user\workspace\Backend\exercise-list-employees\obj\Debug\net7.0\exercise-list-employees.AssemblyInfo.cs
+C:\Users\user\workspace\Backend\exercise-list-employees\obj\Debug\net7.0\exercise-list-employees.csproj.CoreCompileInputs.cache
+C:\Users\user\workspace\Backend\exercise-list-employees\bin\Debug\net7.0\exercise-list-employees.exe
+C:\Users\user\workspace\Backend\exercise-list-employees\bin\Debug\net7.0\exercise-list-employees.deps.json
+C:\Users\user\workspace\Backend\exercise-list-employees\bin\Debug\net7.0\exercise-list-employees.runtimeconfig.json
+C:\Users\user\workspace\Backend\exercise-list-employees\bin\Debug\net7.0\exercise-list-employees.dll
+C:\Users\user\workspace\Backend\exercise-list-employees\bin\Debug\net7.0\exercise-list-employees.pdb
+C:\Users\user\workspace\Backend\exercise-list-employees\obj\Debug\net7.0\exercise-list-employees.dll
+C:\Users\user\workspace\Backend\exercise-list-employees\obj\Debug\net7.0\refint\exercise-list-employees.dll
+C:\Users\user\workspace\Backend\exercise-list-employees\obj\Debug\net7.0\exercise-list-employees.pdb
+C:\Users\user\workspace\Backend\exercise-list-employees\obj\Debug\net7.0\exercise-list-employees.genruntimeconfig.cache
+C:\Users\user\workspace\Backend\exercise-list-employees\obj\Debug\net7.0\ref\exercise-list-employees.dll
